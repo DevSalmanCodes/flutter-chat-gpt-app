@@ -1,0 +1,2 @@
+
+ typedef FutureVoid=Future<void>;
